@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+ 📫 My name is Nguyen Duc Manh
+ 🌱 I’m currently learning SE at FPT University
+ 
 <!--
 **manhndhefptuhn/manhndhefptuhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
